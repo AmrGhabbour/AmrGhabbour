@@ -4,7 +4,7 @@
 
 🔹 3+ years of experience in **data analysis & business intelligence**  
 🔹 Skilled in **Excel (Power Query, Power Pivot, DAX)**, **SQL**, **Python**, and **Power BI**  
-🔹 Experienced in **sales analytics, financial modeling, and market entry analysis**  
+🔹 Experienced in **sales analytics, product analysis, and market entry analysis**  
 🔹 Passionate about using **data-driven insights** to solve business problems and guide strategy  
 
 ---
