@@ -18,7 +18,7 @@
   Predicted high-value customers with expected repeat purchases, helping sales prioritize 20% of customers 
   generating 70% of revenue. 
 
-- 💰 **Market Basket analysis (Apriori)**  
+- 💰 **[Market Basket analysis (Apriori)](https://github.com/AmrGhabbour/Market_Basket_Analysis)**  
   Identified top product pairings with lift > 2.0, enabling marketing to create bundle offers that boosted average 
   order value by 12%.  
 
