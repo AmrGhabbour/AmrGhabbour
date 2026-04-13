@@ -11,14 +11,14 @@
 - 📈 **[Telecom Customer Churn Prediction](https://github.com/AmrGhabbour/Telecom_Customer_Churn_Prediction)**  
   ML model to predict customer churn with EDA, preprocessing, and model evaluation.  
 
-- 🛒 **Sales Analytics Dashboard** (Excel/Power BI)  
+- 💰 **Sales Analytics Dashboard** (Excel/Power BI)  
   End-to-end dashboard tracking KPIs for sales performance and customer trends.
 
 - 📈 **[Customer Lifetime Value](https://github.com/AmrGhabbour/Customer_Lifetime_Value_Python)**  
   Predicted high-value customers with expected repeat purchases, helping sales prioritize 20% of customers 
   generating 70% of revenue. 
 
-- 💰 **[Market Basket analysis (Apriori)](https://github.com/AmrGhabbour/Market_Basket_Analysis)**  
+- 🛒 **[Market Basket analysis (Apriori)](https://github.com/AmrGhabbour/Market_Basket_Analysis)**  
   Identified top product pairings with lift > 2.0, enabling marketing to create bundle offers that boosted average 
   order value by 12%.  
 
