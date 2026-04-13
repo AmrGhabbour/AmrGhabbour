@@ -22,6 +22,6 @@
   Identified top product pairings with lift > 2.0, enabling marketing to create bundle offers that boosted average 
   order value by 12%.  
 
-
-
+- 🌎 **[GeoSpatial_Analysis](https://github.com/AmrGhabbour/kwt-healthcare-geoanalysis)**  
+  Evaluates the accessibility and spatial distribution of pharmacies across the State of Kuwait.  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
