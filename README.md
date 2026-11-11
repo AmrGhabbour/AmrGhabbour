@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹 3+ years of experience in data analysis & business intelligence<br>🔹 Skilled in Power BI, Excel, SQL, and Python<br>🔹 Experienced in sales analytics, product analysis, and market entry analysis<br>🔹 Passionate about using data-driven insights to solve business problems and guide strategy
+🔹 4+ years of experience in data analysis & business intelligence<br>🔹 Skilled in Power BI, Excel, SQL, and Python<br>🔹 Experienced in sales analytics, product analysis, and market entry analysis<br>🔹 Passionate about using data-driven insights to solve business problems and guide strategy
 
 
 ## 🌐 Socials:
